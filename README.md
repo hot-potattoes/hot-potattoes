@@ -1,12 +1,12 @@
 <div align="center">
 
 <!-- ===== HEADER / AVATAR ===== -->
-<!-- Bordas arredondadas e sombras de CSS foram removidas pois o GitHub não aceita -->
+<!--
 <img
   src="https://avatars.githubusercontent.com/hot-potattoes"
   alt="Profile Avatar"
   width="160"
-/>
+/> -->
 
 <h1>Hi, I'm Potato 👋</h1>
 
